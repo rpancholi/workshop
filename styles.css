@@ -1,0 +1,18 @@
+head{
+	font: cursive;
+	text-align: center;
+}
+body{
+	font: Arial;
+	color: blue;
+	font-size: 1em;
+	text-align: center;
+}
+
+h1{
+	font-size: 5em;
+}
+
+img{
+	width: 20em;
+}
